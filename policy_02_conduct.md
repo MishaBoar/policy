@@ -10,8 +10,8 @@ Four Pillars: Being **Personable**, **Useful,** **Reliable** and **Welcoming**.
 ## Scope
 
 The Code of Shibes should be applied to all staff, volunteers and attendees at Dogecoin Events which 
-make use of the Dogecoin Brand, as well as participants in official online community spaces, including 
-but not limited to: official social media channels, websites, code repositories, mailing lists and 
+make use of the Dogecoin Brand, as well as participants in online community spaces, including 
+but not limited to: social media channels, websites, code repositories, mailing lists and 
 chat groups.
 
 ## Good Shibes
